@@ -1,0 +1,25 @@
+{
+  "name": "hexo-tag-margin-note",
+  "version": "1.0.1",
+  "description": "A tag plugin for Hexo to add margin notes to the right side, according to tufte.css",
+  "files": [
+    "lib/margin.js",
+    "index.js",
+    "package.json"
+  ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brucou/hexo-tag-margin-note.git"
+  },
+  "keywords": [
+    "hexo",
+    "tag"
+  ],
+  "author": "brucou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brucou/hexo-tag-margin-note/issues"
+  },
+  "homepage": "https://github.com/brucou/hexo-tag-margin-note#readme"
+}
