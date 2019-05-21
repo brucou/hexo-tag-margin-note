@@ -20,10 +20,10 @@ function renderMarkdown(content) {
 }
 
 /** Tag options for an inline tag with no end block */
-var inlineTag = { async: true, ends: false }
+var inlineTag = { ends: false }
 
 /** Tag options for a block tag (tag / endtag pair) */
-var blockTag = { async: true, ends: true }
+var blockTag = { ends: true }
 
 // hexo.extend.tag.register('margin', ref, inlineTag)
 
